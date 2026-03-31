@@ -12,7 +12,6 @@ https://caption-crafter-ai-1.onrender.com/
 This project is hosted on Render's free tier. Free instances go to sleep after 15 minutes of inactivity. When the service has been idle, the first request may take 40–60 seconds to start the app again. After that, the app works normally.
 
 ## 📱 Demo Preview  
-<img width="1722" height="958" alt="521820046-b2d50e50-ec3a-44d2-8393-fc68e640f725" src="https://github.com/user-attachments/assets/673794cb-bc56-4757-a8f2-75930abac5e3" />
 
 <img width="1722" height="958" alt="image" src="https://github.com/user-attachments/assets/b2d50e50-ec3a-44d2-8393-fc68e640f725" />
 
